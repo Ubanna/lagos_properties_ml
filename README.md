@@ -6,7 +6,7 @@ There are multiple real estate classified websites where properties are listed f
 
 Potential buyers, sometimes feel the prices of some listed properties are not justified and they have no alternative platform to confirm or verify. A justified property price model can bring in a lot of transparency and trust back to the property market, especially in Nigeria, where the average volume of a typical transaction is quite high.
 
-This project aims to use machine learning techniques to predict property prices based on certain input features, like number of bedrooms, bathrooms, etc.
+This project uses machine learning techniques to predict property prices based on certain input features, like number of bedrooms, bathrooms, etc.
 
 ### DATA
 
